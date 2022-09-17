@@ -44,7 +44,7 @@ docker-compose up
 
 Note: Open swagger after running the application. You will see "Authorize" button at the right top corner. You can simply paste your token in there and start to use the api. 
 
-- [Swagger-UI](localhost:8080/swagger-ui.html)
+- [Swagger-UI](http://localhost:8080/swagger-ui.html)
 
 
 ## Manuel Setup 
